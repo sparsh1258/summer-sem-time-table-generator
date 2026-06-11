@@ -58,6 +58,76 @@ let private setGridDragging (on: bool) =
         let el = grid :?> Browser.Types.HTMLElement
         if on then el.classList.add "dragging" else el.classList.remove "dragging"
 
+/// Touch devices don't fire HTML5 drag events, so the editor implements its
+/// own pointer-based drag for them: document-level listeners follow the
+/// finger, highlight the slot underneath, and drop on release.
+let private startTouchDrag
+    (move: (int * Day * int) -> unit)
+    (index: int)
+    (source: Browser.Types.HTMLElement)
+    (startEv: Browser.Types.PointerEvent)
+    =
+    startEv.preventDefault ()
+    source.classList.add "touch-dragging"
+    setGridDragging true
+
+    let doc = Browser.Dom.document
+    let mutable hover: Browser.Types.Element option = None
+
+    let clearHover () =
+        hover |> Option.iter (fun c -> c.classList.remove "drag-over")
+        hover <- None
+
+    let cellAt (x: float) (y: float) =
+        match doc.elementFromPoint (x, y) with
+        | null -> None
+        | el ->
+            let cell: Browser.Types.Element = el?closest ("[data-slot]")
+            if isNull (box cell) then None else Some cell
+
+    let onMove (e: Browser.Types.Event) =
+        let pe = e :?> Browser.Types.PointerEvent
+        clearHover ()
+
+        match cellAt pe.clientX pe.clientY with
+        | Some cell ->
+            cell.classList.add "drag-over"
+            hover <- Some cell
+        | None -> ()
+
+    let mutable cleanup = fun () -> ()
+
+    let onUp (e: Browser.Types.Event) =
+        let pe = e :?> Browser.Types.PointerEvent
+        let target = cellAt pe.clientX pe.clientY
+        cleanup ()
+
+        match target with
+        | Some cell ->
+            let dayAttr = cell.getAttribute "data-day"
+            let slotAttr = cell.getAttribute "data-slot"
+
+            if not (isNull dayAttr) && not (isNull slotAttr) then
+                match Day.TryParse dayAttr, System.Int32.TryParse slotAttr with
+                | Some d, (true, slot) -> move (index, d, slot)
+                | _ -> ()
+        | None -> ()
+
+    let onCancel (_: Browser.Types.Event) = cleanup ()
+
+    cleanup <-
+        fun () ->
+            doc.removeEventListener ("pointermove", onMove)
+            doc.removeEventListener ("pointerup", onUp)
+            doc.removeEventListener ("pointercancel", onCancel)
+            source.classList.remove "touch-dragging"
+            setGridDragging false
+            clearHover ()
+
+    doc.addEventListener ("pointermove", onMove)
+    doc.addEventListener ("pointerup", onUp)
+    doc.addEventListener ("pointercancel", onCancel)
+
 // ---------------------------------------------------------------------------
 // Header
 // ---------------------------------------------------------------------------
@@ -480,6 +550,8 @@ let private renderGrid (onMove: ((int * Day * int) -> unit) option) (blocks: Gri
                             ]
                             match onMove with
                             | Some move ->
+                                yield prop.custom ("data-day", d.Label)
+                                yield prop.custom ("data-slot", string slotStart)
                                 yield prop.onDragOver (fun e ->
                                     e.preventDefault ()
                                     e.dataTransfer.dropEffect <- "move")
@@ -538,7 +610,7 @@ let private renderGrid (onMove: ((int * Day * int) -> unit) option) (blocks: Gri
                                 (if onMove.IsSome then "\nDrag to move this class." else "")
                         )
                         match onMove, b.DragIndex with
-                        | Some _, Some index ->
+                        | Some move, Some index ->
                             yield prop.draggable true
                             yield prop.onDragStart (fun e ->
                                 e.dataTransfer.setData ("text/plain", string index) |> ignore
@@ -549,6 +621,15 @@ let private renderGrid (onMove: ((int * Day * int) -> unit) option) (blocks: Gri
                                 Browser.Dom.window.setTimeout ((fun () -> setGridDragging true), 0)
                                 |> ignore)
                             yield prop.onDragEnd (fun _ -> setGridDragging false)
+                            // Touch/pen drags use the custom pointer-based path;
+                            // mouse keeps native HTML5 drag and drop.
+                            yield prop.onPointerDown (fun e ->
+                                if e.pointerType <> "mouse" then
+                                    startTouchDrag
+                                        move
+                                        index
+                                        (e.currentTarget :?> Browser.Types.HTMLElement)
+                                        e)
                         | _ -> ()
                         yield prop.children [
                             yield Html.div [
@@ -804,9 +885,9 @@ let private editCanvas (model: Model) (dispatch: Msg -> unit) =
             yield Html.p [
                 prop.className "drag-hint"
                 prop.text (
-                    "Drag any class to another slot — drops snap to the official 50-minute periods "
-                    + "(08:00–19:40) from the master sheet, and red blocks mark overlaps. "
-                    + "Nothing is applied until you press Finalise."
+                    "Drag any class to another slot (on phones: press a class and slide your finger) — "
+                    + "drops snap to the official 50-minute periods from the master sheet, and red blocks "
+                    + "mark overlaps. Nothing is applied until you press Finalise."
                 )
             ]
             yield typeLegend true

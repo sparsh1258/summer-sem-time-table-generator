@@ -588,9 +588,17 @@ button { font-family: inherit; cursor: pointer; }
   z-index: 3;
 }
 
-/* Blocks are only draggable inside the editor */
-.tt-grid.editable .class-block { cursor: grab; }
+/* Blocks are only draggable inside the editor. touch-action: none lets the
+   custom pointer drag track the finger instead of scrolling the page. */
+.tt-grid.editable .class-block { cursor: grab; touch-action: none; }
 .tt-grid.editable .class-block:active { cursor: grabbing; }
+
+.class-block.touch-dragging {
+  opacity: 0.55;
+  transform: scale(1.04);
+  box-shadow: 0 8px 20px rgba(30, 35, 51, 0.25);
+  z-index: 4;
+}
 
 @keyframes fade-up {
   from { transform: translateY(4px); opacity: 0; }
