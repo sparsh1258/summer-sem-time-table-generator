@@ -1,0 +1,4 @@
+# Static deploy: upload only the prebuilt output and config
+/*
+!/dist
+!/vercel.json
