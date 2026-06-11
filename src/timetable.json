@@ -1,0 +1,5207 @@
+{
+ "semester": "Summer Semester 2026",
+ "entries": [
+  {
+   "code": "UEC301",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B301"
+  },
+  {
+   "code": "UEC307",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B301"
+  },
+  {
+   "code": "UEC301",
+   "type": "T",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B301"
+  },
+  {
+   "code": "UEC301",
+   "type": "T",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B301"
+  },
+  {
+   "code": "UEC301",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B301"
+  },
+  {
+   "code": "UEC307",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B301"
+  },
+  {
+   "code": "UEC301",
+   "type": "T",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B301"
+  },
+  {
+   "code": "UEC301",
+   "type": "T",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B301"
+  },
+  {
+   "code": "UEC301",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B301"
+  },
+  {
+   "code": "UEC307",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B301"
+  },
+  {
+   "code": "UEC307",
+   "type": "T",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B301"
+  },
+  {
+   "code": "UEC404",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B301"
+  },
+  {
+   "code": "UEC502",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B302"
+  },
+  {
+   "code": "UEC513",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B302"
+  },
+  {
+   "code": "UCS301",
+   "type": "L",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B302"
+  },
+  {
+   "code": "UCS301",
+   "type": "L",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B302"
+  },
+  {
+   "code": "UEC502",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B302"
+  },
+  {
+   "code": "UEC513",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B302"
+  },
+  {
+   "code": "UCS301",
+   "type": "L",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B302"
+  },
+  {
+   "code": "UCS301",
+   "type": "L",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B302"
+  },
+  {
+   "code": "UEC502",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B302"
+  },
+  {
+   "code": "UEC513",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B302"
+  },
+  {
+   "code": "UEC519",
+   "type": "T",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 880,
+   "end": 980,
+   "room": "B302"
+  },
+  {
+   "code": "UEC502",
+   "type": "T",
+   "group": "G1",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B302"
+  },
+  {
+   "code": "UEC519",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B302"
+  },
+  {
+   "code": "UCS301",
+   "type": "L",
+   "group": "G1",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B302"
+  },
+  {
+   "code": "UCS301",
+   "type": "L",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B302"
+  },
+  {
+   "code": "UEC502",
+   "type": "T",
+   "group": "G2",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B302"
+  },
+  {
+   "code": "UEC519",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B302"
+  },
+  {
+   "code": "UEC519",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B303"
+  },
+  {
+   "code": "UEC612",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B303"
+  },
+  {
+   "code": "UEC750",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B303"
+  },
+  {
+   "code": "UES103/UTA003",
+   "type": "L",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 880,
+   "end": 980,
+   "room": "B303"
+  },
+  {
+   "code": "UES103",
+   "type": "L",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B303"
+  },
+  {
+   "code": "UEC612",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B303"
+  },
+  {
+   "code": "UEC750",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B303"
+  },
+  {
+   "code": "UES103/UTA003",
+   "type": "L",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 880,
+   "end": 980,
+   "room": "B303"
+  },
+  {
+   "code": "UES103",
+   "type": "L",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B303"
+  },
+  {
+   "code": "UEC612",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B303"
+  },
+  {
+   "code": "UEC750",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B303"
+  },
+  {
+   "code": "UES103/UTA003",
+   "type": "L",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 880,
+   "end": 980,
+   "room": "B303"
+  },
+  {
+   "code": "UEC612",
+   "type": "T",
+   "group": "G1",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B303"
+  },
+  {
+   "code": "UEC750",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B303"
+  },
+  {
+   "code": "UEC612",
+   "type": "T",
+   "group": "G2",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B303"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "L",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "T",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 630,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "T",
+   "group": "G3",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 680,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "T",
+   "group": "G5",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 730,
+   "room": "B304"
+  },
+  {
+   "code": "UMA005",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 730,
+   "end": 830,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "L",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "T",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 630,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "T",
+   "group": "G4",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 680,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "T",
+   "group": "G6",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 730,
+   "room": "B304"
+  },
+  {
+   "code": "UMA005",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 730,
+   "end": 830,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "L",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "L",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "T",
+   "group": "G7",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 730,
+   "room": "B304"
+  },
+  {
+   "code": "UMA005",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 730,
+   "end": 830,
+   "room": "B304"
+  },
+  {
+   "code": "UMA021",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "L",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B304"
+  },
+  {
+   "code": "UMA021",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B304"
+  },
+  {
+   "code": "UMA005",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 730,
+   "end": 830,
+   "room": "B304"
+  },
+  {
+   "code": "UMA004/UMA023",
+   "type": "L",
+   "group": "G1",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B304"
+  },
+  {
+   "code": "UMA021",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B304"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "L",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "T",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 630,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "T",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 680,
+   "room": "B305"
+  },
+  {
+   "code": "UMA011",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "L",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "T",
+   "group": "G3",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 630,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "T",
+   "group": "G4",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 680,
+   "room": "B305"
+  },
+  {
+   "code": "UMA011",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B305"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "L",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "L",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B305"
+  },
+  {
+   "code": "UMA011",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "B305"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "L",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "T",
+   "group": "G5",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 630,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "T",
+   "group": "G6",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 680,
+   "room": "B305"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "L",
+   "group": "G2",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B305"
+  },
+  {
+   "code": "UMA010/UMA022",
+   "type": "T",
+   "group": "G7",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 630,
+   "room": "B305"
+  },
+  {
+   "code": "UPH013",
+   "type": "L",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B307"
+  },
+  {
+   "code": "UPH013",
+   "type": "L",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B307"
+  },
+  {
+   "code": "UEC404",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B307"
+  },
+  {
+   "code": "UPH013",
+   "type": "L",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B307"
+  },
+  {
+   "code": "UPH013",
+   "type": "L",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B307"
+  },
+  {
+   "code": "UEC404",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B307"
+  },
+  {
+   "code": "UPH013",
+   "type": "L",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B307"
+  },
+  {
+   "code": "UPH013",
+   "type": "L",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B307"
+  },
+  {
+   "code": "UEC404",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B307"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B308"
+  },
+  {
+   "code": "UCS310",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B308"
+  },
+  {
+   "code": "UCS405",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B308"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B308"
+  },
+  {
+   "code": "UCS310",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B308"
+  },
+  {
+   "code": "UCS405",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B308"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B308"
+  },
+  {
+   "code": "UCS310",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B308"
+  },
+  {
+   "code": "UCS405",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B308"
+  },
+  {
+   "code": "UES013",
+   "type": "L",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B309"
+  },
+  {
+   "code": "UES013",
+   "type": "L",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B309"
+  },
+  {
+   "code": "UES013",
+   "type": "L",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B309"
+  },
+  {
+   "code": "UES013",
+   "type": "L",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G1",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G3",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B309"
+  },
+  {
+   "code": "UES013",
+   "type": "L",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B309"
+  },
+  {
+   "code": "UES013",
+   "type": "L",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G2",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G4",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G3",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "P",
+   "group": "CAD1/CAD2 MED G4",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "B309"
+  },
+  {
+   "code": "UES101/UTA015",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "B309"
+  },
+  {
+   "code": "UPH013",
+   "type": "T",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B311"
+  },
+  {
+   "code": "UPH013",
+   "type": "T",
+   "group": "G6",
+   "day": "MONDAY",
+   "start": 730,
+   "end": 830,
+   "room": "B311"
+  },
+  {
+   "code": "UPH013",
+   "type": "T",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B311"
+  },
+  {
+   "code": "UPH013",
+   "type": "T",
+   "group": "G7",
+   "day": "TUESDAY",
+   "start": 730,
+   "end": 830,
+   "room": "B311"
+  },
+  {
+   "code": "UPH013",
+   "type": "T",
+   "group": "G3",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B311"
+  },
+  {
+   "code": "UCS405",
+   "type": "T",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 730,
+   "end": 830,
+   "room": "B311"
+  },
+  {
+   "code": "UCS405",
+   "type": "T",
+   "group": "G4",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B311"
+  },
+  {
+   "code": "UPH013",
+   "type": "T",
+   "group": "G4",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B311"
+  },
+  {
+   "code": "UCS405",
+   "type": "T",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B311"
+  },
+  {
+   "code": "UCS405",
+   "type": "T",
+   "group": "G5",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "B311"
+  },
+  {
+   "code": "UPH013",
+   "type": "T",
+   "group": "G5",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "B311"
+  },
+  {
+   "code": "UCS405",
+   "type": "T",
+   "group": "G3",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 680,
+   "room": "B311"
+  },
+  {
+   "code": "UEC301",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "EL LAB"
+  },
+  {
+   "code": "UEC301",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "EL LAB"
+  },
+  {
+   "code": "UEC301",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "EL LAB"
+  },
+  {
+   "code": "UEC301",
+   "type": "P",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "EL LAB"
+  },
+  {
+   "code": "UEC502",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "DSP LAB"
+  },
+  {
+   "code": "UEC502",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "DSP LAB"
+  },
+  {
+   "code": "UEC502",
+   "type": "P",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "DSP LAB"
+  },
+  {
+   "code": "UEC502",
+   "type": "P",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "DSP LAB"
+  },
+  {
+   "code": "UEC404",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DSP LAB"
+  },
+  {
+   "code": "UEC404",
+   "type": "P",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DSP LAB"
+  },
+  {
+   "code": "UEC513",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MCES LAB"
+  },
+  {
+   "code": "UEC513",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MCES LAB"
+  },
+  {
+   "code": "UEC519",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "COMM LAB"
+  },
+  {
+   "code": "UEC519",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "COMM LAB"
+  },
+  {
+   "code": "UEC612",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "FPGA LAB"
+  },
+  {
+   "code": "UEC612",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "FPGA LAB"
+  },
+  {
+   "code": "UEC612",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "FPGA LAB"
+  },
+  {
+   "code": "UEC612",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "FPGA LAB"
+  },
+  {
+   "code": "UNC401",
+   "type": "P",
+   "group": "CP-1 LAB",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 880,
+   "room": "VLSI LAB"
+  },
+  {
+   "code": "UNC401",
+   "type": "P",
+   "group": "CP1 LAB",
+   "day": "TUESDAY",
+   "start": 880,
+   "end": 930,
+   "room": "VLSI LAB"
+  },
+  {
+   "code": "UEC750",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "VLSI LAB"
+  },
+  {
+   "code": "UNC401",
+   "type": "P",
+   "group": "CP-1 LAB",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 880,
+   "room": "VLSI LAB"
+  },
+  {
+   "code": "UNC401",
+   "type": "P",
+   "group": "CP1 LAB",
+   "day": "WEDNESDAY",
+   "start": 880,
+   "end": 930,
+   "room": "VLSI LAB"
+  },
+  {
+   "code": "UEC750",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "VLSI LAB"
+  },
+  {
+   "code": "UMA011",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 680,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 780,
+   "end": 880,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 880,
+   "end": 980,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G3",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G4",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G3",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA021",
+   "type": "P",
+   "group": "G5",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA028",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA034",
+   "type": "P",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA035",
+   "type": "P",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA033",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA034",
+   "type": "P",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA028",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA033",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA034",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA035",
+   "type": "P",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "NA-1 LAB"
+  },
+  {
+   "code": "UMA034",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA034",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA035",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA035",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA401",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA401",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA401",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA401",
+   "type": "P",
+   "group": "G1",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 680,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA401",
+   "type": "P",
+   "group": "G2",
+   "day": "FRIDAY",
+   "start": 680,
+   "end": 780,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA401",
+   "type": "P",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMA035",
+   "type": "P",
+   "group": "G2",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NA-2 LAB"
+  },
+  {
+   "code": "UMT308",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "MOM- LAB/MED"
+  },
+  {
+   "code": "UME308",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MOM- LAB/MED"
+  },
+  {
+   "code": "UMT308",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MOM- LAB/MED"
+  },
+  {
+   "code": "UME310",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "WORKSHOP- LAB/MED"
+  },
+  {
+   "code": "UES102",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "WORKSHOP- LAB/MED"
+  },
+  {
+   "code": "UME310",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "WORKSHOP- LAB/MED"
+  },
+  {
+   "code": "UES102",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "WORKSHOP- LAB/MED"
+  },
+  {
+   "code": "UME405",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "CAM- LAB/MED"
+  },
+  {
+   "code": "UME405",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "CAM- LAB/MED"
+  },
+  {
+   "code": "UME405",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "CAM- LAB/MED"
+  },
+  {
+   "code": "UME405",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "CAM- LAB/MED"
+  },
+  {
+   "code": "UME414",
+   "type": "P",
+   "group": "SM LAB MED",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "MTX- LAB/MED"
+  },
+  {
+   "code": "UME410",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MTX- LAB/MED"
+  },
+  {
+   "code": "UME410",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MTX- LAB/MED"
+  },
+  {
+   "code": "UML501",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "ML- LAB/CSED"
+  },
+  {
+   "code": "UML501",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "ML- LAB/CSED"
+  },
+  {
+   "code": "UML501",
+   "type": "P",
+   "group": "G3",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ML- LAB/CSED"
+  },
+  {
+   "code": "UML501",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "ML- LAB/CSED"
+  },
+  {
+   "code": "UML501",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "ML- LAB/CSED"
+  },
+  {
+   "code": "UML501",
+   "type": "P",
+   "group": "G3",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ML- LAB/CSED"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G5",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G6",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UES012",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G7",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UES022",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UES012",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G7",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UES022",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UES012",
+   "type": "P",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G3",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G4",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G4",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G3",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G5",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UPH013",
+   "type": "P",
+   "group": "G6",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "LAB-1(SPMS)G BLOCK"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G114(CBCL LAB)"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G114(CBCL LAB)"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G3",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G114(CBCL LAB)"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G3",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G114(CBCL LAB)"
+  },
+  {
+   "code": "UCE303",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "STR.MECH CIVIL LAB"
+  },
+  {
+   "code": "UCE308",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "STR.MECH CIVIL LAB"
+  },
+  {
+   "code": "UCE303",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "STR.MECH CIVIL LAB"
+  },
+  {
+   "code": "UCE308",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "STR.MECH CIVIL LAB"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G3",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G4",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G3",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G4",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G5",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS301",
+   "type": "P",
+   "group": "G5",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "DS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G3",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G4",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G3",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G4",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS303/UCT401",
+   "type": "P",
+   "group": "G4",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "SS-1 LAB CSED"
+  },
+  {
+   "code": "UCS310",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS310",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS310",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS310",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS615",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS551",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS542",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS615",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS551",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS542",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS802",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS638",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS802",
+   "type": "P",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "UCS638",
+   "type": "P",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "DBMS-1 LAB CSED"
+  },
+  {
+   "code": "PAI103",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "PAI106",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "P",
+   "group": "G4",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "PAI103",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "PAI106",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UTA030/UTA024",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UCS411",
+   "type": "P",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UCT501",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UCS411",
+   "type": "P",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UTA030/UTA024",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UCS411",
+   "type": "P",
+   "group": "G1",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UCT501",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UCS411",
+   "type": "P",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ED2-LAB CSED"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UCS415",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UCS415",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G4",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UCS415",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UCS415",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "P",
+   "group": "G1",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G3",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G2",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "P",
+   "group": "G3",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G4",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G3",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G5",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G5",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G6",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 680,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UTA018/UCT303",
+   "type": "P",
+   "group": "G3",
+   "day": "FRIDAY",
+   "start": 680,
+   "end": 780,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UES103",
+   "type": "P",
+   "group": "G6",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "PL-5-LAB CSED"
+  },
+  {
+   "code": "UCS520",
+   "type": "P",
+   "group": "NS LAB CSED G1",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "NS-LAB CSED"
+  },
+  {
+   "code": "UCS520",
+   "type": "P",
+   "group": "NS LAB CSED G2",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NS-LAB CSED"
+  },
+  {
+   "code": "UCS520",
+   "type": "P",
+   "group": "NS LAB CSED G1",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "NS-LAB CSED"
+  },
+  {
+   "code": "UCS520",
+   "type": "P",
+   "group": "NS LAB CSED G2",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NS-LAB CSED"
+  },
+  {
+   "code": "MCA302",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NS-LAB CSED"
+  },
+  {
+   "code": "MCA302",
+   "type": "P",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "NS-LAB CSED"
+  },
+  {
+   "code": "UEE401",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "MACHINE LAB EIED"
+  },
+  {
+   "code": "UEE301",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MACHINE LAB EIED"
+  },
+  {
+   "code": "UEE401",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "MACHINE LAB EIED"
+  },
+  {
+   "code": "UEE301",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MACHINE LAB EIED"
+  },
+  {
+   "code": "UEE413",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MACHINE LAB EIED"
+  },
+  {
+   "code": "UEE413",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MACHINE LAB EIED"
+  },
+  {
+   "code": "UEE413",
+   "type": "P",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "MACHINE LAB EIED"
+  },
+  {
+   "code": "UEI408",
+   "type": "P",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ANALOG LAB EIED"
+  },
+  {
+   "code": "UEI408",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ANALOG LAB EIED"
+  },
+  {
+   "code": "UES302",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ANALOG LAB EIED"
+  },
+  {
+   "code": "UES302",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "ANALOG LAB EIED"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G3",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G4",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G6",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G7",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G4",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G5",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G6",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G7",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 680,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G3",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "UES013",
+   "type": "P",
+   "group": "G5",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "EL-1(H-BLOCK)"
+  },
+  {
+   "code": "ULC301",
+   "type": "P",
+   "group": "G1",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "IOT LAB"
+  },
+  {
+   "code": "ULC301",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "IOT LAB"
+  },
+  {
+   "code": "ULC301",
+   "type": "P",
+   "group": "G1",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "IOT LAB"
+  },
+  {
+   "code": "ULC301",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "IOT LAB"
+  },
+  {
+   "code": "ULC403",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "IOT LAB"
+  },
+  {
+   "code": "ULC403",
+   "type": "P",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "IOT LAB"
+  },
+  {
+   "code": "UMA034",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 530,
+   "room": "F101"
+  },
+  {
+   "code": "UMA033",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F101"
+  },
+  {
+   "code": "UMA028",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F101"
+  },
+  {
+   "code": "UMA034",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 730,
+   "end": 780,
+   "room": "F101"
+  },
+  {
+   "code": "UMA033",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F101"
+  },
+  {
+   "code": "UMA028",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F101"
+  },
+  {
+   "code": "UMA035",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 730,
+   "end": 830,
+   "room": "F101"
+  },
+  {
+   "code": "UMA033",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F101"
+  },
+  {
+   "code": "UMA028",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F101"
+  },
+  {
+   "code": "UMA034",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F101"
+  },
+  {
+   "code": "UMA035",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F101"
+  },
+  {
+   "code": "UMA034",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F101"
+  },
+  {
+   "code": "UMA035",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F101"
+  },
+  {
+   "code": "UMA401",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F102"
+  },
+  {
+   "code": "UME308",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F102"
+  },
+  {
+   "code": "UMT308",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F102"
+  },
+  {
+   "code": "UME310",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F102"
+  },
+  {
+   "code": "UME404",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F102"
+  },
+  {
+   "code": "UMA401",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F102"
+  },
+  {
+   "code": "UME308",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F102"
+  },
+  {
+   "code": "UMT308",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F102"
+  },
+  {
+   "code": "UME310",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F102"
+  },
+  {
+   "code": "UME404",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F102"
+  },
+  {
+   "code": "UMA401",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F102"
+  },
+  {
+   "code": "UME308",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F102"
+  },
+  {
+   "code": "UMT308",
+   "type": "T",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F102"
+  },
+  {
+   "code": "UME405",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F102"
+  },
+  {
+   "code": "UME404",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F102"
+  },
+  {
+   "code": "UME308",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F102"
+  },
+  {
+   "code": "UME405",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F102"
+  },
+  {
+   "code": "UME405",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F102"
+  },
+  {
+   "code": "UME404",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F102"
+  },
+  {
+   "code": "UME511",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F103"
+  },
+  {
+   "code": "UME408",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F103"
+  },
+  {
+   "code": "UME410",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F103"
+  },
+  {
+   "code": "UME511",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F103"
+  },
+  {
+   "code": "UME408",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F103"
+  },
+  {
+   "code": "UME410",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F103"
+  },
+  {
+   "code": "UME414",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F103"
+  },
+  {
+   "code": "UME517",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F103"
+  },
+  {
+   "code": "UME511",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F103"
+  },
+  {
+   "code": "UME408",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F103"
+  },
+  {
+   "code": "UME410",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F103"
+  },
+  {
+   "code": "UME414",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F103"
+  },
+  {
+   "code": "UME408",
+   "type": "T",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F103"
+  },
+  {
+   "code": "UME511",
+   "type": "P",
+   "group": "AUTO MOBILE LAB",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F103"
+  },
+  {
+   "code": "UME408",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F103"
+  },
+  {
+   "code": "UME517",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F103"
+  },
+  {
+   "code": "UME414",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F103"
+  },
+  {
+   "code": "UME517",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F103"
+  },
+  {
+   "code": "UME414",
+   "type": "T",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F103"
+  },
+  {
+   "code": "UME517",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F103"
+  },
+  {
+   "code": "UME720",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F104"
+  },
+  {
+   "code": "UML501",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F104"
+  },
+  {
+   "code": "UMT305",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F104"
+  },
+  {
+   "code": "UMT305",
+   "type": "P",
+   "group": "ICE LAB MED",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F104"
+  },
+  {
+   "code": "UME720",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F104"
+  },
+  {
+   "code": "UML501",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F104"
+  },
+  {
+   "code": "UMT305",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F104"
+  },
+  {
+   "code": "UMT305",
+   "type": "P",
+   "group": "ICE LAB MED",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 980,
+   "room": "F104"
+  },
+  {
+   "code": "UMT305",
+   "type": "L",
+   "group": "ICE LAB MED",
+   "day": "TUESDAY",
+   "start": 980,
+   "end": 1030,
+   "room": "F104"
+  },
+  {
+   "code": "UME720",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F104"
+  },
+  {
+   "code": "UML501",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F104"
+  },
+  {
+   "code": "UMT305",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F104"
+  },
+  {
+   "code": "UMT403",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F104"
+  },
+  {
+   "code": "UME720",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F104"
+  },
+  {
+   "code": "UMT403",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F104"
+  },
+  {
+   "code": "UMT305",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F104"
+  },
+  {
+   "code": "UMT403",
+   "type": "P",
+   "group": "SM LAB",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F104"
+  },
+  {
+   "code": "UME720",
+   "type": "P",
+   "group": "HMT LAB",
+   "day": "FRIDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F104"
+  },
+  {
+   "code": "UMT403",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F104"
+  },
+  {
+   "code": "UMT403",
+   "type": "T",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F104"
+  },
+  {
+   "code": "UNC401",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F105"
+  },
+  {
+   "code": "UBT310",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F105"
+  },
+  {
+   "code": "UCE614",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F105"
+  },
+  {
+   "code": "UNC401",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F105"
+  },
+  {
+   "code": "UCB009",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F105"
+  },
+  {
+   "code": "UBT310",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F105"
+  },
+  {
+   "code": "UCS619",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F105"
+  },
+  {
+   "code": "UNC401",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F105"
+  },
+  {
+   "code": "UCB009",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F105"
+  },
+  {
+   "code": "UBT310",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F105"
+  },
+  {
+   "code": "UCS510/UCS319",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F105"
+  },
+  {
+   "code": "UCB009",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F105"
+  },
+  {
+   "code": "UCS510/UCS319",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F105"
+  },
+  {
+   "code": "UCS510/UCS319",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F105"
+  },
+  {
+   "code": "UCS411",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F106"
+  },
+  {
+   "code": "UCS414",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F106"
+  },
+  {
+   "code": "UCS503",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F106"
+  },
+  {
+   "code": "UCS411",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F106"
+  },
+  {
+   "code": "UCS414",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F106"
+  },
+  {
+   "code": "UCS503",
+   "type": "P",
+   "group": "SE-1 LAB CSED",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F106"
+  },
+  {
+   "code": "UCS411",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F106"
+  },
+  {
+   "code": "UCS415",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F106"
+  },
+  {
+   "code": "UCS503",
+   "type": "P",
+   "group": "SE-1 LAB CSED",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F106"
+  },
+  {
+   "code": "UCS503",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F106"
+  },
+  {
+   "code": "UCS415",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F106"
+  },
+  {
+   "code": "UCS503",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F106"
+  },
+  {
+   "code": "UCS415",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F106"
+  },
+  {
+   "code": "UCS505",
+   "type": "P",
+   "group": "CG-2 CSED LAB",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F108"
+  },
+  {
+   "code": "UCS617",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F108"
+  },
+  {
+   "code": "UCS617",
+   "type": "P",
+   "group": "ES-1(CSED LAB)",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F108"
+  },
+  {
+   "code": "UCS505",
+   "type": "P",
+   "group": "CG-2 CSED LAB",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F108"
+  },
+  {
+   "code": "UCS617",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F108"
+  },
+  {
+   "code": "UCS615",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F108"
+  },
+  {
+   "code": "UCS617",
+   "type": "P",
+   "group": "ES-1(CSED LAB)",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F108"
+  },
+  {
+   "code": "UCS617",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F108"
+  },
+  {
+   "code": "UCS615",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F108"
+  },
+  {
+   "code": "UCS619",
+   "type": "P",
+   "group": "IS-1(CSED LAB)",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F108"
+  },
+  {
+   "code": "UCS619",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F108"
+  },
+  {
+   "code": "UCS615",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F108"
+  },
+  {
+   "code": "UCS619",
+   "type": "P",
+   "group": "IS-1(CSED LAB)",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F108"
+  },
+  {
+   "code": "UCS619",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F108"
+  },
+  {
+   "code": "UCE303",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F110"
+  },
+  {
+   "code": "UCE308",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F110"
+  },
+  {
+   "code": "UCE310",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F110"
+  },
+  {
+   "code": "UCE306",
+   "type": "P",
+   "group": "CAD LAB2 CED",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F110"
+  },
+  {
+   "code": "UCS414",
+   "type": "P",
+   "group": "NS1 CSED LAB",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F110"
+  },
+  {
+   "code": "UCE303",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F110"
+  },
+  {
+   "code": "UCE303",
+   "type": "T",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F110"
+  },
+  {
+   "code": "UCE310",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F110"
+  },
+  {
+   "code": "UCT501",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F110"
+  },
+  {
+   "code": "UCE306",
+   "type": "P",
+   "group": "CAD LAB2 CED",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F110"
+  },
+  {
+   "code": "UCE303",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F110"
+  },
+  {
+   "code": "UCE308",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F110"
+  },
+  {
+   "code": "UCE310",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F110"
+  },
+  {
+   "code": "UCT501",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F110"
+  },
+  {
+   "code": "UCE306",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F110"
+  },
+  {
+   "code": "UCE310",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F110"
+  },
+  {
+   "code": "UCE310",
+   "type": "P",
+   "group": "FM LAB CED",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F110"
+  },
+  {
+   "code": "UCT501",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F110"
+  },
+  {
+   "code": "UCE306",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F110"
+  },
+  {
+   "code": "UCE405",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F111"
+  },
+  {
+   "code": "UCE613",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F111"
+  },
+  {
+   "code": "UCE613",
+   "type": "P",
+   "group": "GEO CED LAB",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F111"
+  },
+  {
+   "code": "UCE405",
+   "type": "P",
+   "group": "SUERVEY LAB CED",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F111"
+  },
+  {
+   "code": "UCE405",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F111"
+  },
+  {
+   "code": "UCE613",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F111"
+  },
+  {
+   "code": "UCE405",
+   "type": "P",
+   "group": "SUERVEY LAB CED",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F111"
+  },
+  {
+   "code": "UCE405",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F111"
+  },
+  {
+   "code": "UCE613",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F111"
+  },
+  {
+   "code": "UCE614",
+   "type": "P",
+   "group": "FM LAB CED",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F111"
+  },
+  {
+   "code": "UCE613",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F111"
+  },
+  {
+   "code": "UCE614",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F111"
+  },
+  {
+   "code": "UCE614",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F111"
+  },
+  {
+   "code": "UCE614",
+   "type": "T",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F111"
+  },
+  {
+   "code": "UEE301",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F112"
+  },
+  {
+   "code": "UEE413",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F112"
+  },
+  {
+   "code": "UEE401",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 880,
+   "end": 980,
+   "room": "F112"
+  },
+  {
+   "code": "UEE301",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F112"
+  },
+  {
+   "code": "UEE413",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F112"
+  },
+  {
+   "code": "UEE401",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 880,
+   "end": 980,
+   "room": "F112"
+  },
+  {
+   "code": "UEE301",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F112"
+  },
+  {
+   "code": "UEE413",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F112"
+  },
+  {
+   "code": "UEE509",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F112"
+  },
+  {
+   "code": "UEE401",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F112"
+  },
+  {
+   "code": "UEE301",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F112"
+  },
+  {
+   "code": "UEE509",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F112"
+  },
+  {
+   "code": "UEE401",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 880,
+   "end": 980,
+   "room": "F112"
+  },
+  {
+   "code": "UEE509",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F112"
+  },
+  {
+   "code": "UEE509",
+   "type": "T",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F112"
+  },
+  {
+   "code": "UES012",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F206"
+  },
+  {
+   "code": "UES102",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F206"
+  },
+  {
+   "code": "UHU003",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F206"
+  },
+  {
+   "code": "UCS551",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F206"
+  },
+  {
+   "code": "UES012",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F206"
+  },
+  {
+   "code": "UES102",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F206"
+  },
+  {
+   "code": "UHU003",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F206"
+  },
+  {
+   "code": "UCS551",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F206"
+  },
+  {
+   "code": "UES012",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F206"
+  },
+  {
+   "code": "UCE501",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F206"
+  },
+  {
+   "code": "UHU003",
+   "type": "P",
+   "group": "G317",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F206"
+  },
+  {
+   "code": "UCE501",
+   "type": "P",
+   "group": "GEO LAB",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F206"
+  },
+  {
+   "code": "UES012",
+   "type": "T",
+   "group": "G1",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 580,
+   "room": "F206"
+  },
+  {
+   "code": "UES012",
+   "type": "T",
+   "group": "G2",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 630,
+   "room": "F206"
+  },
+  {
+   "code": "UES022",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F206"
+  },
+  {
+   "code": "UHU003",
+   "type": "P",
+   "group": "G317",
+   "day": "THURSDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F206"
+  },
+  {
+   "code": "UCE501",
+   "type": "P",
+   "group": "GEO LAB",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F206"
+  },
+  {
+   "code": "UES012",
+   "type": "T",
+   "group": "G1",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 580,
+   "room": "F206"
+  },
+  {
+   "code": "UES012",
+   "type": "T",
+   "group": "G2",
+   "day": "FRIDAY",
+   "start": 580,
+   "end": 630,
+   "room": "F206"
+  },
+  {
+   "code": "UES022",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F206"
+  },
+  {
+   "code": "UCE501",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F206"
+  },
+  {
+   "code": "UEI408",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F209"
+  },
+  {
+   "code": "UES302",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F209"
+  },
+  {
+   "code": "UES009",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F209"
+  },
+  {
+   "code": "UCE513",
+   "type": "P",
+   "group": "GEO LAB CED",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F209"
+  },
+  {
+   "code": "UEI408",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F209"
+  },
+  {
+   "code": "UES302",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F209"
+  },
+  {
+   "code": "UES009",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F209"
+  },
+  {
+   "code": "UEI408",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F209"
+  },
+  {
+   "code": "UEN002/UEN008",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F209"
+  },
+  {
+   "code": "UES009",
+   "type": "T",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F209"
+  },
+  {
+   "code": "UCE513",
+   "type": "P",
+   "group": "GEO LAB CED",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F209"
+  },
+  {
+   "code": "UEI408",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F209"
+  },
+  {
+   "code": "UEN002/UEN008",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F209"
+  },
+  {
+   "code": "UCE513",
+   "type": "P",
+   "group": "GEO LAB CED",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F209"
+  },
+  {
+   "code": "UES009",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F209"
+  },
+  {
+   "code": "UEN002/UEN008",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 630,
+   "end": 730,
+   "room": "F209"
+  },
+  {
+   "code": "UCE513",
+   "type": "P",
+   "group": "GEO LAB CED",
+   "day": "FRIDAY",
+   "start": 780,
+   "end": 830,
+   "room": "F209"
+  },
+  {
+   "code": "ULC302",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F210"
+  },
+  {
+   "code": "ULC301",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F210"
+  },
+  {
+   "code": "ULC403",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F210"
+  },
+  {
+   "code": "ULC302",
+   "type": "T",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F210"
+  },
+  {
+   "code": "ULC405",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F210"
+  },
+  {
+   "code": "ULC302",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F210"
+  },
+  {
+   "code": "ULC301",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F210"
+  },
+  {
+   "code": "ULC403",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F210"
+  },
+  {
+   "code": "UCE501",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F210"
+  },
+  {
+   "code": "ULC405",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F210"
+  },
+  {
+   "code": "ULC302",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F210"
+  },
+  {
+   "code": "ULC301",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F210"
+  },
+  {
+   "code": "ULC403",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F210"
+  },
+  {
+   "code": "ULC302",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F210"
+  },
+  {
+   "code": "ULC405",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F210"
+  },
+  {
+   "code": "ULC302",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F210"
+  },
+  {
+   "code": "ULC405",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "F210"
+  },
+  {
+   "code": "ULC302",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F210"
+  },
+  {
+   "code": "UTA025",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F211"
+  },
+  {
+   "code": "UVD301",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F211"
+  },
+  {
+   "code": "PAI103",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F211"
+  },
+  {
+   "code": "UTA030/UTA024",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F211"
+  },
+  {
+   "code": "UTA025",
+   "type": "P",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F211"
+  },
+  {
+   "code": "UVD301",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F211"
+  },
+  {
+   "code": "PAI103",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F211"
+  },
+  {
+   "code": "UTA030/UTA024",
+   "type": "T",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F211"
+  },
+  {
+   "code": "UTA025",
+   "type": "P",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 480,
+   "end": 580,
+   "room": "F211"
+  },
+  {
+   "code": "UVD301",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F211"
+  },
+  {
+   "code": "PAI103",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F211"
+  },
+  {
+   "code": "UTA030/UTA024",
+   "type": "T",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "F211"
+  },
+  {
+   "code": "UVD301",
+   "type": "T",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 580,
+   "end": 680,
+   "room": "F211"
+  },
+  {
+   "code": "PAI106",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "F211"
+  },
+  {
+   "code": "PAI106",
+   "type": "L",
+   "group": "ALL",
+   "day": "FRIDAY",
+   "start": 530,
+   "end": 630,
+   "room": "F211"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G2",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G141(CBOL LAB)"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G2",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G141(CBOL LAB)"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G4",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G141(CBOL LAB)"
+  },
+  {
+   "code": "UCB009",
+   "type": "P",
+   "group": "G4",
+   "day": "THURSDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "G141(CBOL LAB)"
+  },
+  {
+   "code": "UCS802",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 830,
+   "end": 930,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  },
+  {
+   "code": "MCA302",
+   "type": "L",
+   "group": "ALL",
+   "day": "MONDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  },
+  {
+   "code": "UCS802",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  },
+  {
+   "code": "MCA302",
+   "type": "L",
+   "group": "ALL",
+   "day": "TUESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  },
+  {
+   "code": "UCS638",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 680,
+   "end": 780,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  },
+  {
+   "code": "UCS802",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 830,
+   "end": 930,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  },
+  {
+   "code": "MCA302",
+   "type": "L",
+   "group": "ALL",
+   "day": "WEDNESDAY",
+   "start": 930,
+   "end": 1030,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  },
+  {
+   "code": "UCS638",
+   "type": "L",
+   "group": "ALL",
+   "day": "THURSDAY",
+   "start": 680,
+   "end": 780,
+   "room": "PG ACTIVITY SPACE 2(4TH FLOOR CSED)"
+  }
+ ]
+}

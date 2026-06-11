@@ -1,0 +1,20 @@
+{
+  "name": "timetable-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "dotnet fable watch src --run vite",
+    "build": "dotnet fable src --run vite build",
+    "extract": "node tools/extract-timetable.mjs"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11",
+    "xlsx": "^0.18.5"
+  }
+}

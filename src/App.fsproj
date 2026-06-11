@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>TimetableGenerator</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Domain.fs" />
+    <Compile Include="Stats.fs" />
+    <Compile Include="Data.fs" />
+    <Compile Include="State.fs" />
+    <Compile Include="View.fs" />
+    <Compile Include="App.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fable.Core" Version="5.*" />
+    <PackageReference Include="Fable.Promise" Version="3.*" />
+    <PackageReference Include="Fable.Browser.Dom" Version="2.*" />
+    <PackageReference Include="Fable.Browser.Blob" Version="1.*" />
+    <PackageReference Include="Fable.Elmish" Version="4.*" />
+    <PackageReference Include="Feliz" Version="3.*" />
+    <PackageReference Include="Feliz.UseElmish" Version="5.*" />
+  </ItemGroup>
+
+</Project>
