@@ -652,6 +652,16 @@ button { font-family: inherit; cursor: pointer; }
   color: var(--ink-soft);
 }
 
+.results-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.results-head h2 { margin: 0; }
+
 /* Edit mode */
 .results.editing {
   outline: 2px dashed #c7d2fe;

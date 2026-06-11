@@ -913,8 +913,19 @@ let private resultsSection (model: Model) (dispatch: Msg -> unit) =
     Html.section [
         prop.className (if model.EditMode then "card results editing" else "card results")
         prop.children [
-            yield Html.h2 [
-                prop.text (if model.EditMode then "2 · Editing your week" else "2 · Your week")
+            yield Html.div [
+                prop.className "results-head"
+                prop.children [
+                    Html.h2 [
+                        prop.text (if model.EditMode then "2 · Editing your week" else "2 · Your week")
+                    ]
+                    if not model.EditMode && not model.SelectedCourses.IsEmpty then
+                        Html.button [
+                            prop.className "btn ghost"
+                            prop.onClick (fun _ -> dispatch EnterEditMode)
+                            prop.text "✏ Edit timetable"
+                        ]
+                ]
             ]
 
             if model.EditMode then
