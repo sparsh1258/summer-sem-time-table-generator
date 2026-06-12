@@ -1,4 +1,4 @@
-# Time Table Generator & Conflict Resolver
+# Summer Semester Time Table Generator
 
 A 100% client-side SPA built with **F# / Fable 5 / Elmish / Feliz**. The
 official **Summer Semester 2026** master timetable is embedded in the app —
@@ -7,6 +7,52 @@ ranked by fewest idle gaps and fewest late-evening classes.
 
 Cross-listed courses are accepted under either code (e.g. `UTA015` resolves
 to `UES101/UTA015`).
+
+## Features
+
+- **Automatic clash detection** — every candidate schedule is checked for
+  overlapping classes before it is shown; clashing combinations are rejected
+  and deadlocks are diagnosed with an explanation of which subjects conflict.
+- **Group-wise schedule generation** — pick your subjects and the app
+  enumerates every valid combination of lecture/tutorial/practical groups
+  across all sections.
+- **Multiple timetable comparison** — all conflict-free schedules are
+  presented as ranked tabs (fewest idle gaps, fewest late-evening classes),
+  so you can flip between options and compare them side by side.
+- **Local storage persistence** — your subject selections, uploaded
+  datasets, and usage stats are saved in `localStorage`, so the app
+  remembers your preferences between visits with no backend.
+- **Mobile-friendly UI** — responsive CSS-grid weekly calendar with touch
+  drag support in the timetable editor, plus a print/PDF export view.
+
+## How it works
+
+1. **User selects course groups** — subject codes are entered through a tag
+   input with suggestions; cross-listings are resolved automatically.
+2. **Timetable data loaded from JSON** — the embedded `src/timetable.json`
+   dataset (or a workbook uploaded via the admin page) provides every class
+   meeting for every group.
+3. **Time slots converted to comparable intervals** — each class is
+   normalised into day + start/end minute intervals so any two meetings can
+   be compared directly.
+4. **Clash detection performed** — a backtracking search walks the group
+   combinations, pruning any branch where two intervals overlap.
+5. **Valid schedules displayed** — surviving schedules are ranked by gaps
+   and evening load, then rendered on a CSS-grid weekly calendar.
+
+## Challenges solved
+
+- **Handling overlapping labs** — consecutive 50-minute slots of the same
+  lab are merged into a single interval by the extractor, so multi-slot
+  practicals are compared as one block instead of clashing with themselves.
+- **Supporting multiple sections** — each subject can have many lecture,
+  tutorial, and practical groups; the search treats every section as an
+  independent choice and finds workable mixes across all of them.
+- **Fast timetable generation** — backtracking with early pruning discards
+  clashing branches immediately, so even subjects with many sections solve
+  instantly in the browser.
+- **Persistent user preferences** — selections, custom datasets, and stats
+  survive page reloads via `localStorage`, with no server or account needed.
 
 ## Prerequisites
 
